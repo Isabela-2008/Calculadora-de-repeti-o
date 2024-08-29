@@ -1,0 +1,29 @@
+Enunciado do Projeto
+Título: Calculadora Simples em Loop
+
+Descrição:
+Desenvolva um programa em Python que funcione como uma calculadora simples. O programa deve permitir ao usuário realizar operações matemáticas básicas (adição, subtração, multiplicação e divisão) entre dois números. O programa deve continuar executando até que o usuário digite "sair".
+
+Requisitos:
+
+Solicitar ao usuário dois números e a operação desejada (+, -, *, /).
+Realizar a operação e exibir o resultado.
+Tratar o caso de divisão por zero, exibindo uma mensagem de erro apropriada.
+Permitir que o usuário saia do loop digitando "sair" como operação.
+Exibir uma mensagem de erro se o usuário digitar uma operação inválida.
+
+# Calculadora Simples em Loop
+
+## Descrição
+Este projeto implementa uma calculadora simples em Python que permite ao usuário realizar operações matemáticas básicas entre dois números. A calculadora continua executando em loop até que o usuário escolha sair.
+
+## Funcionalidades
+- Operações suportadas: adição (`+`), subtração (`-`), multiplicação (`*`), divisão (`/`).
+- Tratamento de erros para divisão por zero.
+- Validação de operações inválidas.
+- Saída do loop ao digitar "sair".
+
+## Como Executar
+1. Clone o repositório para sua máquina local.
+   ```bash
+   git clone https://github.com/seu_usuario/calculadora-simples.git
